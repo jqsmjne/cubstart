@@ -1,0 +1,11 @@
+.container {
+  height: 80%;
+  width: 80%;
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#bored-button {
+  cursor: pointer;
+}
